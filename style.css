@@ -4,7 +4,7 @@ body {
 
 h1 {
 	color: #0097A7;
-	font-style: Helvetica;
+	font-style: Helvetica, sans-serif;
 	font-size: 50px;
 }
 
