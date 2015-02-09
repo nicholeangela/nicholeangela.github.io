@@ -1,7 +1,7 @@
 body {
 	background-color: #B6B6B6;
-	background: src="\images\DSC_0048kiss.jpg";
-	background-size: ;
+	background: url("blob/master/DSC_0048kiss.jpg");
+	background-size: cover;
 	font-style: Helvetica, sans-serif;
 }
 
