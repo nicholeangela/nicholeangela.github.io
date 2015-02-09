@@ -1,13 +1,20 @@
 body {
-	background-color: #B6B6B6
+	background-color: #B6B6B6;
+	background: url("\images\DSC_0048kiss.jpg");
+	background-size: cover;
+	font-style: "Helvetica", sans-serif;
 }
 
 h1 {
 	color: #0097A7;
-	font-style: Helvetica, sans-serif;
+	font-style: "Great Vibes", sans-serif;
 	font-size: 50px;
 }
 
 h2 {
 	color: #B2EBF2;
+}
+#slogan {
+	color: #ffffff;
+	font-weight: italic;
 }
